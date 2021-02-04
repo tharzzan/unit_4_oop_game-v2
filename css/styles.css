@@ -130,6 +130,10 @@ button {
   justify-content: center;
 }
 
+.key:hover {
+  background-color:darkseagreen;
+}
+
 .chosen {
   background: #3a3f58;
   border-radius: 5px;
